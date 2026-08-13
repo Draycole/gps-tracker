@@ -10,13 +10,18 @@
 | 8 |	Wires |	Two different types of wires. | presetwire | 5,000 | $3.70 |
 | |           	| |awg 38 | 700 	|$0.50 |
 | |         | |    m-m jumper |	 1,800 	|$1.30 |
-9	Soldering Iron	To make the electric connections	soldering-iron	 7,100 	$5.20 
+| 9	| Soldering Iron |	To make the electric connections	| soldering-iron	| 7,100 |	$5.20 |
+<!-- | x |     x          |                   x                |        x        |  x    |   x   | -->
+|  |     Iron Tip Cleaner         |                                  |        cleaner       |  800    |   $0.60   |
+|  |     Soldering Lead         |                                   |        lead       |  3,800   |   $2.80   |
+| 10 |     Miscellaneous Components  |  Essential resistors/capacitors to tune and protect the components. I’m giving an estimate |               |  10, 000    |   $7.30   |
+|  |               |                                   |               |  **61,400**   |   **$68**   |
                     
+
+<!--
+|  |      Iron Tip Cleaner		  | cleaner	| 800 |	$0.60 |
                     
-    Iron Tip Cleaner		cleaner	 800 	$0.60 
-                    
-    Soldering Lead		lead	 3,800 	$2.80 
-10	Miscellaneous Components	Essential resistors/capacitors to tune and protect the components. I’m giving an estimate		 10,000 	$7.30 
-                    
-                    
-                 61,400 	 68 
+|  |    	| |		| 3,800 	| $2.80 |
+| 10 |	Miscellaneous Components	| Essential resistors/capacitors to tune and protect the components. I’m giving an estimate	|	 10,000 |	$7.30 |
+     61,400 	| 68 |
+-->
