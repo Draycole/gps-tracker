@@ -8,8 +8,8 @@
 | 6 |	SD Card Module | Read/Write data to the sd card for offline backup. Inexpensive | sd-card-r/w | 1,300 | 	$0.95 | 
 | 7 |	Veroboard |	This is where the electronics will be mounted. I’ll solder the components here. | veroboard | 1,900 | $1.40 |
 | 8 |	Wires |	Two different types of wires. | presetwire | 5,000 | $3.70 |
-| |           	| |awg 38 | 700 	|$0.50 
-            m-m jumper	 1,800 	$1.30 
+| |           	| |awg 38 | 700 	|$0.50 |
+| |         | |    m-m jumper |	 1,800 	|$1.30 |
 9	Soldering Iron	To make the electric connections	soldering-iron	 7,100 	$5.20 
                     
                     
