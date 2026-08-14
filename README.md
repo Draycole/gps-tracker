@@ -29,7 +29,13 @@ gps-tracker/
 │   ├── lab-notes
 |
 ├── firmware/
-│   ├── .
+│   ├── src/
+|   ├── include/
+|   ├── drivers/
+|       ├── gps/
+|       ├── sim800L/
+|       ├── sd/
+|       ├── imu/
 |
 ├── hardware/
 │   ├── .
