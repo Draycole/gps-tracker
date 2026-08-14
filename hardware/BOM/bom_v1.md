@@ -8,12 +8,12 @@
 | 6 |	SD Card Module | Read/Write data to the sd card for offline backup. Inexpensive | [sd-card-r/w](https://hub360.cc/shop/0088-sd-card-module-11896) | 1,300 | 	$0.95 | 
 | 7 |	Veroboard |	This is where the electronics will be mounted. I’ll solder the components here. | [veroboard](https://hub360.cc/shop/1399-6cmx8cm-double-sided-fiberglass-pcb-veroboard-stripboard-14636) | 1,900 | $1.40 |
 | 8 |	Wires |	Two different types of wires. | [presetwire](https://hub360.cc/shop/2869-140-pieces-mixed-breadboard-jumper-wires-17125?search=wire&order=name+asc) | 5,000 | $3.70 |
-| |           	| |awg 38 | [700](https://hub360.cc/shop/1906-0-1mm-enameled-copper-jumper-wire-awg-38-13189?search=jumper&order=name+asc) 	|$0.50 |
+| |           	| | [awg 38](https://hub360.cc/shop/1906-0-1mm-enameled-copper-jumper-wire-awg-38-13189?search=jumper&order=name+asc) | 700 	|$0.50 |
 | |         | |    [m-m jumper](https://hub360.cc/shop/2694-15cm-male-to-male-jumper-16950?search=jumper&order=name+asc) |	 1,800 	|$1.30 |
-| 9	| Soldering Iron |	To make the electric connections	| soldering-iron	| 7,100 |	$5.20 |
+| 9	| Soldering Iron |	To make the electric connections	| [soldering-iron](https://hub360.cc/shop/0696-professional-soldering-iron-60w-10598)	| 7,100 |	$5.20 |
 <!-- | x |     x          |                   x                |        x        |  x    |   x   | -->
-|  |     Iron Tip Cleaner         |                                  |        cleaner       |  800    |   $0.60   |
-|  |     Soldering Lead         |                                   |        lead       |  3,800   |   $2.80   |
+|  |     Iron Tip Cleaner         |                                  |        [cleaner](https://hub360.cc/shop/2180-flux-rosing-soldering-iron-tip-cleaner-13463?search=irno&order=name+asc)       |  800    |   $0.60   |
+|  |     Soldering Lead         |                                   |        [lead](https://hub360.cc/shop/0675-medium-soldering-lead-60-40-50g-12483?page=2&search=solder&order=name+asc)       |  3,800   |   $2.80   |
 | 10 |     Miscellaneous Components  |  Essential resistors/capacitors to tune and protect the components. I’m giving an estimate |               |  10, 000    |   $7.30   |
 |  |               |                                   |               |  **61,400**   |   **$68**   |
                     
