@@ -11,13 +11,14 @@
 | |           	| | [awg 38](https://hub360.cc/shop/1906-0-1mm-enameled-copper-jumper-wire-awg-38-13189?search=jumper&order=name+asc) | 700 	|$0.50 |
 | |         | |    [m-m jumper](https://hub360.cc/shop/2694-15cm-male-to-male-jumper-16950?search=jumper&order=name+asc) |	 1,800 	|$1.30 |
 | 9	| Soldering Iron |	To make the electric connections	| [soldering-iron](https://hub360.cc/shop/0696-professional-soldering-iron-60w-10598)	| 7,100 |	$5.20 |
-<!-- | x |     x          |                   x                |        x        |  x    |   x   | -->
+
+
 |  |     Iron Tip Cleaner         |                                  |        [cleaner](https://hub360.cc/shop/2180-flux-rosing-soldering-iron-tip-cleaner-13463?search=irno&order=name+asc)       |  800    |   $0.60   |
 |  |     Soldering Lead         |                                   |        [lead](https://hub360.cc/shop/0675-medium-soldering-lead-60-40-50g-12483?page=2&search=solder&order=name+asc)       |  3,800   |   $2.80   |
 | 10 |     Miscellaneous Components  |  Essential resistors/capacitors to tune and protect the components. I’m giving an estimate |               |  10, 000    |   $7.30   |
 |  |               |                                   |               |  **61,400**   |   **$68**   |
                     
-
+<!-- | x |     x          |                   x                |        x        |  x    |   x   | -->
 <!--
 |  |      Iron Tip Cleaner		  | cleaner	| 800 |	$0.60 |
                     
