@@ -1,6 +1,6 @@
 | S/N | Component |	Justification	| Link	| Price | $ |
 |------|--------|------------|----------|------------------| ---- | 
-| 1 | Raspberry Pi Pico W | I’m most familiar with this mcu. It has local Wifi enabled as a cost effective failsafe. I’ll be able to write code in C in the relevant modular structure, allowing it to be easily modified.	| pi pico w |  20,000 | $14.60 |
+| 1 | Raspberry Pi Pico W | I’m most familiar with this mcu. It has local Wifi enabled as a cost effective failsafe. I’ll be able to write code in C in the relevant modular structure, allowing it to be easily modified.	| [pi pico w](https://hub360.cc/shop/0408-raspberry-pi-pico-w-rp2040-type-c-dual-core-microcontroller-development-board-12216?search=pico+w&order=name+asc) |  20,000 | $14.60 |
 | 2 |	SIM 800L GSM Module |	Small form factor. Effective at its low cost. Alternative backup gps. |	sim module |	   13 000 | $9.50 | 
 | 3 |	GT-U7 EEPROM GPS module | Extremely low power draw. Simple to use and heavy documentation. Comes with non obtrusive antenna | gps module | 19 000 | $13.90 | 
 | 4 |	MPU6050	Accelerometer unit. | Simple, compact, cost effective, simple protocol. | accelerometer | 5,000 | 	$3.70 | 
