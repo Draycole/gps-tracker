@@ -38,7 +38,8 @@ gps-tracker/
 |       ├── imu/
 |
 ├── hardware/
-│   ├── .
+│   ├── bom/
+│   ├── datasheets/
 |
 ├── backend/
 │   ├── .
