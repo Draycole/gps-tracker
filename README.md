@@ -45,7 +45,8 @@ gps-tracker/
 │   ├── .
 |
 ├── tests/
-│   ├── .
+│   ├── gps/
+│   ├── sd/
 |
 ├── tools/
 │   ├── .
