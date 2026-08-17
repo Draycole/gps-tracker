@@ -1,8 +1,15 @@
-### GPS Module Single Test
-This was done on Aug 1  
+### IMU (Accelerometer) Single Test
+This was done on Aug 15  
 
-I was able to write a script to enable satellite lock and print (for now), and print time, lat, long, altitude and connection status.  
+I was able to write a script to initialize and boot up the IMU. Calibrate the necessary registers and printed necessary sensor data:
+- Acceleration in all three axes
+- Angular velocity in all three axes
+- Temperature (from the onboard sensor)
+- Tilt angles (roll and pitch)
+- Derived linear velocity in three axes
   
-Results were sucessful. Screenshot attached in parent directory. Cold boot took ~90 seconds while warm was < 15s.  
+Results were sucessful. Screenshot attached in parent directory.  
 
-Promising outcome. The gps module is verified and funcitons as expected
+Worth noting that I'm yet to apply calibration offsets and correct for drift.  
+
+But the unit is self functional.
