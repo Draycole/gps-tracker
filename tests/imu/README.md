@@ -12,4 +12,4 @@ Results were sucessful. Screenshot attached in parent directory.
 
 Worth noting that I'm yet to apply calibration offsets and correct for drift.  
 
-But the unit is self functional.
+But I have verified the unit is functional.
