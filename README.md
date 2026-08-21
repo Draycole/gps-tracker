@@ -21,7 +21,7 @@ gps-tracker/
 │   ├── power-budget.md
 │   ├── decisions/
 │   ├── meeting-notes/
-│   ├── architecture.md
+│   ├── architectur   e.md
 │   ├── lab-notes
 |
 ├── firmware/
