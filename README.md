@@ -6,6 +6,7 @@ A battery powered self sustaining tracking device designed for implementation in
 
 ### Current Status
 Layer 1 Testing. GPS Module single test done
+Layer 1 Testing. IMU operation verified
 
 ### Repository Structure
 .<br>
