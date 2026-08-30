@@ -2,4 +2,7 @@ The device streams location and relevant data over the internet to a web backend
 
 Packet information is transmitted in JSON. 
 
-Containing device_id, lat, long, speed, heading.
+Containing device_id, lat, long, speed, heading.  
+
+Objectives  
+- Develop a server with a custom exposed backend
