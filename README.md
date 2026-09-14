@@ -8,7 +8,7 @@ A battery powered self sustaining tracking device designed for implementation in
 Layer 1 Testing. GPS Module lock and location print verified  
 Layer 1 Testing. IMU operation verified  
 Layer 1 Testing. Issues encountered in SD Module implementation  
-Layer 1 Testing. Issues encountered in soldering SD module
+Layer 1 Testing. Issues encountered on the in soldering SD module
 
 ### Repo Structure
 .<br>
