@@ -1,5 +1,5 @@
 # GPS-Tracker
-Project files for an autonomous, portable, internet-enabled GPS tracker
+Project files for an autonomous, portable, internet-enabled GPS vehicleracker
 
 ### Project Summary
 A battery powered self sustaining tracking device designed for implementation in vehicles. Capable of measuring location and driving route history and network streaming. Also capable of smart power management.
