@@ -2,7 +2,6 @@
 Project files for an autonomous, portable, internet-enabled GPS vehicle tracker
 
 ### Project Summary
-A battery powered self sustaining tracking device designed for implementation in vehicles. Capable of measuring location and driving route history and network streaming. Also capable of smart power management.  
 A battery powered self sustaining tracking device designed for implementation in vehicles. Capable of measuring location and driving route history and network streaming. Also capable of smart power management.
 
 ### Current Status
